@@ -187,4 +187,6 @@ These user stories outline the various features and functionalities of the propo
 
 ## Link to Trello Workspace
 
+https://trello.com/b/EmuuACLM/bookswapu
+
 ![Enrollment](docs/trello-main.png)
