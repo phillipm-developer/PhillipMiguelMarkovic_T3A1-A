@@ -115,6 +115,8 @@ These user stories cover the main functionality of the Book Exchange Application
 
 * As a user, I want to log in securely using my credentials to manage my textbook inventory.
 
+* As a user, I want the option to reset my password in case I forget it.
+
 **Book Management:**
 
 * As a user, I want to add new textbooks to my inventory, providing details like title, author, edition, and condition.
@@ -127,44 +129,51 @@ These user stories cover the main functionality of the Book Exchange Application
 
 * As a student, I want to search for specific textbooks by entering the title or author's name.
 
-* As a user, I want to view a list of matching texbooks together with the identity of the user that owns the book.
+* As a user, I want to view a list of users who possess the textbooks I am looking for.
 
-* As a user, I want to see additional information about the books like the edition, year the book was published, status and condition of the textbooks in the search results.
+* As a user, I want to see the availability status and condition of the textbooks in the search results.
 
-**Book Request and Exchange Process:**
+**Book Exchange Request:**
 
-* As a user, I want to directly message other users who have the textbooks I want to exchange.
+* As a user, I want to send direct request to other users who have the textbooks I want to exchange.
 
-* As a user, I want to receive a message through the platform from other students with whom I have requested an exchange.
+* As a user, I want to receive a notification (accept/decline) through the platform from other students with whom I have requested an exchange.
 
-* As a user, I want to be messaged through the platform when another user wants to exchange books from my inventory.
+* As a user, I want to be notified (request) through the platform when another user wants to exchange books from my inventory.
 
-* As a user, I want to initiate a book exchange by proposing a swap to another user with a message.
+**Book Exchange Process:**
 
-* As a user, I want to accept or reject a proposed book exchange offer from another student with a message.
+* As a user, I want to initiate a book exchange by proposing a swap to another user.
 
-* As a user, I want to be able to exhange contact details or a place to meet to swap books.
+* As a user, I want to accept or reject a proposed book exchange offer from another student.
 
-These user stories outline the various features and functionalities of the proposed textbook exchange web application. Each user story addresses specific needs and requirements of students, ensuring a comprehensive and user-centric experience for all parties involved in the book exchange process.
+* As a user, I want to view the confirmed book exchange details, including the books being swapped and contact information.
+
+**User Feedback and Ratings (Comments):**
+
+* As a user, I want to provide feedback and ratings about the platform.
+
+* As a student, I want to view the ratings and feedback provided by other users.
+
+**System Notifications:**
+
+* As a user, I want to receive system notifications about important updates, such as changes in exchange status or new messages.
+
+* As a student, I want to receive reminders about upcoming book exchange appointments.
+
+**Administration and Moderation:**
+
+* As an administrator, I want to manage user accounts and ensure the platform remains safe and functional.
+
+* As an administrator, I want to review and address any reported issues or disputes between users.
+
+These user stories outline the various features and functionalities of the proposed textbook exchange web application. Each user story addresses specific needs and requirements of both students and administrators, ensuring a comprehensive and user-centric experience for all parties involved in the book exchange process.
 
 # R5. Wireframe Diagrams
 
 # R6. Trello Board
 
 ## Link to Trello Workspace
-
-I have settled on an Agile Kanban style approach to project management. I made the decision to create tasks based on individual coding milestones as well as the requirements for the README document. Generally speaking, each card will represent a user story with each one containing tasks. Each card may or may not contain a specific assessment requirement as they may coincide with a coding milestone, or they may be carried out independently and therefore be their own card. Each card has the user story as its title.
-
-Please note that there isn't always a perfect mapping between user stories and Trello cards.
-
-The Trello board is divided into the following columns (a standard approach). All cards created will be initially placed in the Todo list and move into the "In Progress" column based on priority.
-
-Todo: Work that is yet to be commenced.
-In Progress: Work that is actively being undertaken.
-Review: Work that is completed and awaiting review. This may be a code review or it may be a requirement that is evaluated against the rubric criteria. If the item under review fails it is flagged and sent back to "In Progress".
-Completed: Work that is completely finished and had passed the review stage.
-I have calculated 14 days to complete the project.
-
 
 https://trello.com/b/EmuuACLM/bookswapu
 
