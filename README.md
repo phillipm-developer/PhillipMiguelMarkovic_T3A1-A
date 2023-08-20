@@ -183,7 +183,7 @@ https://trello.com/b/EmuuACLM/bookswapu
 ## To Do List
 
 ![Todo-List](docs/todo-list.png)
-***<p style="text-align: center;">Complete list of Trello Cards Representing Blocks of Work</p>***
+***<p align="center">Complete list of Trello Cards Representing Blocks of Work</p>***
 
 ## Sample Checklists
 
