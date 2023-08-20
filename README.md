@@ -72,11 +72,11 @@ The application aims to serve a diverse group of users, ranging from university 
 
 ## Technology Stack
 
-The proposed book exchange web application will be developed using the MERN technology stack, which stands for MongoDB, Express.js, React.js, and Node.js. Each component of the stack serves a specific purpose and contributes to the overall functionality and user experience of the application.
+The proposed book exchange web application (BookSwapU) will be developed using the MERN technology stack, which stands for MongoDB, Express.js, React.js, and Node.js. Each component of the stack serves a specific purpose and contributes to the overall functionality and user experience of the application.
 
 ### MongoDB (Database)
 
-MongoDB is a NoSQL database that provides a flexible and scalable data storage solution. In the context of the book exchange application, MongoDB will be used to store information related to users, books, users' inventories, and comments. Collections for users, books, inventory items, and comments can be defined to organize and store the data efficiently. MongoDB's document-based structure allows for easy storage and retrieval of complex data structures, making it suitable for storing user profiles, book details, and inventory information.
+MongoDB is a NoSQL database that provides a flexible and scalable data storage solution. In the context of the book exchange application, MongoDB will be used to store information related to users, books, users' inventories, and messages. Collections for users, books, inventory items, and messages can be defined to organize and store the data efficiently. MongoDB's document-based structure allows for easy storage and retrieval of complex data structures, making it suitable for storing user profiles, book details, and inventory information.
 
 ### Express.js (Backend Framework)
 
@@ -84,7 +84,7 @@ Express.js is a web application framework for Node.js that simplifies the proces
 
 ### React.js (Frontend Library)
 
-React.js is a JavaScript library for building user interfaces. It allows for the creation of dynamic and interactive frontend components. In the book exchange application, React.js will be used to develop the user interface, including pages for user registration and login, book listing, search results, user inventory management, and notification display. React's component-based architecture enables the development of reusable UI components that enhance the user experience.
+React.js is a JavaScript library for building user interfaces. It allows for the creation of dynamic and interactive frontend components. In the book exchange application, React.js will be used to develop the user interface, including pages for user registration and login, book listing, search results, user inventory management, and messaging display. React's component-based architecture enables the development of reusable UI components that enhance the user experience.
 
 ### Node.js (Runtime Environment)
 
