@@ -4,7 +4,7 @@
 
 ## Purpose
 
-Our project aims to develop a comprehensive textbook exchange platform that enables students at the University of Technology, Sydney (UTS) to efficiently exchange textbooks with one another. This platform empowers students to manage their textbook needs independently, eliminating the need for university intervention. The system can be scaled for use by all universities in Sydney, across Australia, and potentially extended to the general public. The platform will facilitate user registration, book management, inventory tracking, search capabilities, and notifications for seamless book swapping.
+Our project aims to develop a comprehensive textbook exchange platform that enables students at the University of Technology, Sydney (UTS) to efficiently exchange textbooks with one another. This platform empowers students to manage their textbook needs independently, eliminating the need for university intervention. The system can be scaled for use by all universities in Sydney, across Australia, and potentially be extended to the general public. The platform will facilitate user registration, book management, inventory tracking, search capabilities, and messaging for seamless book swapping.
 
 Some of the benefits of this approach become immediately obvious.
 
@@ -20,8 +20,7 @@ Some of the benefits of this approach become immediately obvious.
 
 **User Registration and Authentication**
 
-* Students can register using their university email or a standard sign-up process.
-Secure authentication mechanisms will ensure the privacy and security of user accounts.
+* Students can register using their university email in a standard sign-up process. Secure authentication mechanisms will ensure the privacy and security of user accounts.
 
 * Users can create and manage their profiles, including contact information and university details.
 
@@ -29,23 +28,23 @@ Secure authentication mechanisms will ensure the privacy and security of user ac
 
 * Registered users can add, update, and delete books from their inventory.
 
-* Book details, such as title, author, edition, condition, and ISBN, will be stored in the system.
+* Book details, such as Title, Author, Condition, Owner, Edition, Year, and Status, will be stored in the system.
 
 **Inventory Tracking**
 
 * Each user maintains an inventory of available books they are willing to exchange.
 
-* Inventory entries include book information, availability status, and condition details.
+* Inventory entries include book information like, Title, Author, Condition, Edition, Year, and Status.
 
 **Search Functionality**
 
-* Users can search for books based on title, author, or other relevant criteria.
+* Users can search for books based on Title and Author.
 
-* A the search function will return a list of users who possess the desired books.
+* A the search function will return a list of books and relevant information including the owner. This can be carried out on a user's own inventory.
 
-**Listing of Users with Desired Books**
+**Listing of Desired Books and their Owners**
 
-* When a user searches for specific books, the platform will display a list of users who have those books in their inventory.
+* When a user searches for specific books, the platform will display one or more instances of a title along with the owners username and other book details. Multiple users can be in posession of a particular title.
 
 **Communication and Notifications**
 
@@ -53,7 +52,7 @@ Secure authentication mechanisms will ensure the privacy and security of user ac
 
 * The platform enables messaging features to facilitate book swapping discussions.
 
-* Users will receive notifications through the system to stay informed about new messages and potential exchange opportunities.
+* Users will receive messages through the system to stay informed about potential exchange opportunities.
 
 ## Target Audience
 
@@ -68,8 +67,6 @@ The proposed book exchange web application is targeted primarily towards univers
 * **University Community:** As the application extends its reach to other universities and potentially the general public, the target audience expands to include students, faculty, and staff members from various universities, as well as individuals who are looking for a platform to exchange books.
 
 * **Book Enthusiasts:** Individuals who have an interest in reading beyond their academic studies can also benefit from the application. They might want to explore and exchange books on various topics with other users.
-
-* **Administrators and Moderators:** While not the primary users, administrators and moderators of the application are also part of the target audience. They are responsible for maintaining the platform, ensuring its smooth operation, and addressing any issues or disputes that arise.
 
 The application aims to serve a diverse group of users, ranging from university students in need of textbooks for their courses to those who want to make their unused textbooks available for exchange. By catering to these different user needs, the application seeks to create a vibrant community of book exchange enthusiasts and facilitate seamless textbook swapping among students within universities and beyond.
 
