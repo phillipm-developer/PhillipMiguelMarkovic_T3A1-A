@@ -115,7 +115,13 @@ These user stories cover the main functionality of the Book Exchange Application
 
 * As a user, I want to log in securely using my credentials to manage my textbook inventory.
 
+* As a user, I want to be able to view and update my account information (profile) like username, email and password.
+
 **Book Management:**
+
+* As a user, I want to view the textbooks in my inventory.
+
+* As a user, I want filter the textbooks that I view as my inventory can get quite large.
 
 * As a user, I want to add new textbooks to my inventory, providing details like title, author, edition, and condition.
 
@@ -151,21 +157,48 @@ These user stories outline the various features and functionalities of the propo
 
 # R6. Trello Board
 
-## Link to Trello Workspace
+We have settled on an Agile Kanban style approach to project management. Each card has a general heading which describes the web page that will be implemented by that block of work. Each web page is covered by two cards. One card represents all the frontend development work. The other card represents all the backend development work.
 
-I have settled on an Agile Kanban style approach to project management. I made the decision to create tasks based on individual coding milestones as well as the requirements for the README document. Generally speaking, each card will represent a user story with each one containing tasks. Each card may or may not contain a specific assessment requirement as they may coincide with a coding milestone, or they may be carried out independently and therefore be their own card. Each card has the user story as its title.
+Each pair of cards contains one or more of user stories (outlined in R4) in it's description, which detail the functionality that will be implemented (frontend and backend).
 
-Please note that there isn't always a perfect mapping between user stories and Trello cards.
+Each card contains a coding requirement checklist. Each item (or task) is checked off by the developer when completed.
+
+Please note that there isn't always a perfect mapping between user stories and Trello cards. For example, code which loads the 'Profile' page (or component) needs to be added to the 'Profile' link in the navbar component. So there is some crossover work between components. This type of work has been recorded in the cards. Collaboration between developers is required to avoid any conflicts.
 
 The Trello board is divided into the following columns (a standard approach). All cards created will be initially placed in the Todo list and move into the "In Progress" column based on priority.
 
-Todo: Work that is yet to be commenced.
-In Progress: Work that is actively being undertaken.
-Review: Work that is completed and awaiting review. This may be a code review or it may be a requirement that is evaluated against the rubric criteria. If the item under review fails it is flagged and sent back to "In Progress".
-Completed: Work that is completely finished and had passed the review stage.
-I have calculated 14 days to complete the project.
+* **To Do:** Work that is yet to be commenced.
+* **In Progress:** Work that is actively being undertaken.
+* **Review:** Work that is completed and awaiting review. This may be a code review or it may be a requirement that is evaluated against the rubric criteria. If the item under review fails it is flagged and sent back to **"In Progress"**.
+* **Completed:** Work that is completely finished and had passed the review stage.
 
+Cards 1 and 2 have to be carried out first as this is the setup of the project infrastructure. Cards 22 to 25 are carried out in the post development phase. Cards 22 and 23 (User Acceptance Testing) are done independently of each other. All other cards can be assigned to different members of the development team and can largely be carried out independently with collaboration taking place at points where components interact.
+
+We have calculated 14 days to complete the project. Progress will be tracked by recording a standup each day in this section of the Trello board below. A summary of the work done will be posted along with a snapshot of the Trello board.
+
+![Trello-Board](docs/trello-main.png)
+***<p style="text-align: center;">Trello Board at the Start of Day 1</p>***
+
+## Link to Trello Workspace
 
 https://trello.com/b/EmuuACLM/bookswapu
 
-![Enrollment](docs/trello-main.png)
+## To Do List
+
+![Todo-List](docs/todo-list.png)
+***<p style="text-align: center;">Complete list of Trello Cards Representing Blocks of Work</p>***
+
+## Sample Checklists
+
+![Checklist-1](docs/checklist-1.png)
+***<p style="text-align: center;">Setup Checklist for the Frontend</p>***
+
+![Checklist-2](docs/checklist-2.png)
+***<p style="text-align: center;">Checklist for the Login Page</p>***
+
+![Checklist-3](docs/checklist-3.png)
+***<p style="text-align: center;">Checklist for the Login API Route</p>***
+
+![Checklist-4](docs/checklist-4.png)
+***<p style="text-align: center;">Checklist for the Messaging Feature View</p>***
+
