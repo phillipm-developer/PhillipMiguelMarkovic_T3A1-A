@@ -46,7 +46,7 @@ Some of the benefits of this approach become immediately obvious.
 
 * When a user searches for specific books, the platform will display one or more instances of a title along with the owners username and other book details. Multiple users can be in posession of a particular title.
 
-**Communication and Notifications**
+**Communication via Messaging**
 
 * Users can communicate directly with other users who have the desired books for exchange.
 
