@@ -1,4 +1,4 @@
-# PhillipMiguelMarkovic_T3A1 Full Stack Application (Part A): Book Exchange Application
+# T3A1 Full Stack Application (Part A): BookSwapU - Book Exchange Application
 
 # R1. Description of the Website
 
