@@ -173,6 +173,7 @@ Cards 1 and 2 have to be carried out first as this is the setup of the project i
 
 We have calculated 14 days to complete the project. Progress will be tracked by recording a standup each day in this section of the Trello board below. A summary of the work done will be posted along with a snapshot of the Trello board.
 
+***<p align="left">Figure 1</p>***
 ![Trello-Board](docs/trello-main.png)
 ***<p align="center">Trello Board at the Start of Day 1</p>***
 
@@ -182,20 +183,25 @@ https://trello.com/b/EmuuACLM/bookswapu
 
 ## To Do List
 
+***<p align="left">Figure 2</p>***
 ![Todo-List](docs/todo-list.png)
 ***<p align="center">Complete list of Trello Cards Representing Blocks of Work</p>***
 
 ## Sample Checklists
 
+***<p align="left">Figure 3</p>***
 ![Checklist-1](docs/checklist-1.png)
 ***<p align="center">Setup Checklist for the Frontend</p>***
 
+***<p align="left">Figure 4</p>***
 ![Checklist-2](docs/checklist-2.png)
 ***<p align="center">Checklist for the Login Page</p>***
 
+***<p align="left">Figure 5</p>***
 ![Checklist-3](docs/checklist-3.png)
 ***<p align="center">Checklist for the Login API Route</p>***
 
+***<p align="left">Figure 6</p>***
 ![Checklist-4](docs/checklist-4.png)
 ***<p align="center">Checklist for the Messaging Feature View</p>***
 
