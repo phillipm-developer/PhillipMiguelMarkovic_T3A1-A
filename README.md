@@ -146,7 +146,7 @@ These user stories cover the main functionality of the Book Exchange Application
 
 * As a user, I want to accept or reject a proposed book exchange offer from another student with a message.
 
-* As a user, I want to be able to exhange contact details or a place to meet to swap books.
+* As a user, I want to be able to exhange contact details or nominate a meeting place to swap books.
 
 These user stories outline the various features and functionalities of the proposed textbook exchange web application. Each user story addresses specific needs and requirements of students, ensuring a comprehensive and user-centric experience for all parties involved in the book exchange process.
 
