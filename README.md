@@ -1,4 +1,4 @@
-# T3A1 Full Stack Application (Part A): BookSwapU - Book Exchange Application
+# T3A2 Full Stack Application (Part A): BookSwapU - Book Exchange Web Application
 
 # R1. Description of the Website
 
